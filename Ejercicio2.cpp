@@ -1,7 +1,7 @@
 // CMP-2102: Programación Avanzada en C++
 // USFQ - Colegio de Ciencias e Ingeniería
 // Ejercicio 2: Aritmética de Punteros y Matrices en RAM (6.5 Puntos)
-// Estudiante: [Joaquin Loayza]
+// Estudiante: [Joaquin Loayza ]
 // Profesor: Juan Diego Haro (jharo@asig.com.ec)
 
 #include <iostream>

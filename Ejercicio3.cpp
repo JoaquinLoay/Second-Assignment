@@ -1,7 +1,7 @@
 // CMP-2102: Programación Avanzada en C++
 // USFQ - Colegio de Ciencias e Ingeniería
 // Ejercicio 3: POO, Encapsulamiento, Sobrecarga y Destructores (7.0 Puntos)
-// Estudiante: [Joaquin Loayza]
+// Estudiante: [Joaquin Loayza ]
 // Profesor: Juan Diego Haro (jharo@asig.com.ec)
 
 #include <iostream>
